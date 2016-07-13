@@ -5,7 +5,7 @@ import org.junit.*;
 
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  */
 
 public class GameStateTest {

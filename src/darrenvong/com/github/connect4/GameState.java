@@ -2,7 +2,7 @@ package darrenvong.com.github.connect4;
 
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  */
 
 public class GameState extends Connect4GameState {

@@ -5,7 +5,7 @@ import java.util.*;
 import static darrenvong.com.github.connect4.Connect4GameState.*;
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  * 
  * A class to be used in conjunction with the evaluation function of my AI
  * Connect 4 players

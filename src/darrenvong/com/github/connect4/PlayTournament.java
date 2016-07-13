@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  */
 
 public class PlayTournament {

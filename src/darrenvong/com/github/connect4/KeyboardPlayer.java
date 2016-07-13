@@ -3,7 +3,7 @@ package darrenvong.com.github.connect4;
 import darrenvong.com.github.connect4.io.*;
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  */
 
 public class KeyboardPlayer extends Connect4Player {

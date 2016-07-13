@@ -4,7 +4,7 @@ import static java.lang.Integer.*;
 import static darrenvong.com.github.connect4.Connect4GameState.*;
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  */
 
 public class AlphaBetaPlayer extends Connect4Player {

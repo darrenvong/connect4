@@ -2,7 +2,7 @@ package darrenvong.com.github.connect4;
 
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  */
 
 public class DummyPlayer extends Connect4Player {

@@ -2,7 +2,7 @@ package darrenvong.com.github.connect4;
 
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  */
 
 public class Connect4 {
@@ -35,9 +35,9 @@ public class Connect4 {
 				yellow.makeMove(state);
 		}
 		draw();
-		if (state.getWinner() == Connect4GameState.RED)
+		if (getWinner() == Connect4GameState.RED)
 			System.out.println("R wins\n");
-		else if (state.getWinner() == Connect4GameState.YELLOW)
+		else if (getWinner() == Connect4GameState.YELLOW)
 			System.out.println("Y wins\n");
 		else
 			System.out.println("It's a draw!\n");

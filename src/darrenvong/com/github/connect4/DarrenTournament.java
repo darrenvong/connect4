@@ -4,7 +4,7 @@ import java.util.*;
 
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  */
 
 public class DarrenTournament extends Connect4Tournament {

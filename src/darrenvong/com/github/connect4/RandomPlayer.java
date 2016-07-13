@@ -3,7 +3,7 @@ package darrenvong.com.github.connect4;
 import static java.lang.Math.*;
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  */
 
 public class RandomPlayer extends Connect4Player {

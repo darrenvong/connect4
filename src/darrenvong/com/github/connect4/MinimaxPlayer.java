@@ -3,7 +3,7 @@ package darrenvong.com.github.connect4;
 import static darrenvong.com.github.connect4.Connect4GameState.*;
 
 /**
- * @author Ka Vong
+ * @author Ka (Darren) Vong
  */
 
 public class MinimaxPlayer extends Connect4Player {
